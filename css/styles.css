@@ -101,8 +101,8 @@ ul {
   color: var(--pimary-text-color);
 }
 /* фільтри */
-.filters > li > a:hover,
-.filters > li > a:focus {
+.filters > a:hover,
+.filters > a:focus {
   background-color: var(--accent-color);
   color: var(--primary-bg-color);
   border-radius: 4px;
