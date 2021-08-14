@@ -13,7 +13,7 @@ cecondary-bg-color  #E5E5E5; */
 body {
   background-color: var(--primary-bg-color);
   color: var(--primary-text-color);
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-size: 14px;
   line-height: 1.13;
 }
