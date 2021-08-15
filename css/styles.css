@@ -26,14 +26,22 @@ ul {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.2;
+  text-decoration: none;
 }
 .web {
   color: var(--accent-color);
 }
 /* навігація */
-.site-nav .nav-link {
+.site-nav,
+.nav-link {
   font-weight: 500;
   letter-spacing: 0.02em;
+}
+.studio-primary,
+.link,
+.portfolio-primary,
+.link-nav {
+  text-decoration: none;
 }
 .studio-primary {
   color: var(--accent-color);
