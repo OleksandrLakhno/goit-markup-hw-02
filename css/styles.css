@@ -17,9 +17,6 @@ body {
   font-size: 14px;
   line-height: 1.13;
 }
-ul {
-  list-style: none;
-}
 /* шапка сторінки */
 .logo {
   font-family: Raleway;
@@ -30,6 +27,9 @@ ul {
 }
 .web {
   color: var(--accent-color);
+}
+.list {
+  list-style: none;
 }
 /* навігація */
 .site-nav,
